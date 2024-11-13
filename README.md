@@ -83,4 +83,4 @@ md5sum *.jpeg
 
 ## Лицензия
 
-Эта программа распространяется под [MIT License](https://opensource.org/licenses/MIT).
+Эта программа распространяется под [MIT License](LICENSE).
